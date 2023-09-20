@@ -5,3 +5,9 @@
 2) You're sent to hell!
 3) For the rest of your life you will be afraid of mayonaisse.
 4) You step on a crack you break your mother's back.
+
+
+red
+blue
+yellow
+green
